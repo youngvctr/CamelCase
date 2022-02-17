@@ -1,0 +1,13 @@
+C:\Users\JH\source\repos\QRCpdeDemo\QRCpdeDemo\bin\Debug\QRCpdeDemo.exe.config
+C:\Users\JH\source\repos\QRCpdeDemo\QRCpdeDemo\bin\Debug\QRCpdeDemo.exe
+C:\Users\JH\source\repos\QRCpdeDemo\QRCpdeDemo\bin\Debug\QRCpdeDemo.pdb
+C:\Users\JH\source\repos\QRCpdeDemo\QRCpdeDemo\bin\Debug\QRCoder.dll
+C:\Users\JH\source\repos\QRCpdeDemo\QRCpdeDemo\obj\Debug\QRCpdeDemo.csproj.AssemblyReference.cache
+C:\Users\JH\source\repos\QRCpdeDemo\QRCpdeDemo\obj\Debug\QRCpdeDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\JH\source\repos\QRCpdeDemo\QRCpdeDemo\obj\Debug\QRCpdeDemo.Form1.resources
+C:\Users\JH\source\repos\QRCpdeDemo\QRCpdeDemo\obj\Debug\QRCpdeDemo.Properties.Resources.resources
+C:\Users\JH\source\repos\QRCpdeDemo\QRCpdeDemo\obj\Debug\QRCpdeDemo.csproj.GenerateResource.cache
+C:\Users\JH\source\repos\QRCpdeDemo\QRCpdeDemo\obj\Debug\QRCpdeDemo.csproj.CoreCompileInputs.cache
+C:\Users\JH\source\repos\QRCpdeDemo\QRCpdeDemo\obj\Debug\QRCpdeDemo.csproj.CopyComplete
+C:\Users\JH\source\repos\QRCpdeDemo\QRCpdeDemo\obj\Debug\QRCpdeDemo.exe
+C:\Users\JH\source\repos\QRCpdeDemo\QRCpdeDemo\obj\Debug\QRCpdeDemo.pdb

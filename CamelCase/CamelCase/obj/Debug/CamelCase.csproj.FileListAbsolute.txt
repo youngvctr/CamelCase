@@ -1,0 +1,13 @@
+C:\Users\JH\source\repos\CamelCase\CamelCase\bin\Debug\CamelCaser.exe.config
+C:\Users\JH\source\repos\CamelCase\CamelCase\bin\Debug\CamelCaser.exe
+C:\Users\JH\source\repos\CamelCase\CamelCase\bin\Debug\CamelCaser.pdb
+C:\Users\JH\source\repos\CamelCase\CamelCase\bin\Debug\QRCoder.dll
+C:\Users\JH\source\repos\CamelCase\CamelCase\obj\Debug\CamelCase.csproj.AssemblyReference.cache
+C:\Users\JH\source\repos\CamelCase\CamelCase\obj\Debug\CamelCase.csproj.SuggestedBindingRedirects.cache
+C:\Users\JH\source\repos\CamelCase\CamelCase\obj\Debug\CamelCase.Form1.resources
+C:\Users\JH\source\repos\CamelCase\CamelCase\obj\Debug\CamelCaser.Properties.Resources.resources
+C:\Users\JH\source\repos\CamelCase\CamelCase\obj\Debug\CamelCase.csproj.GenerateResource.cache
+C:\Users\JH\source\repos\CamelCase\CamelCase\obj\Debug\CamelCase.csproj.CoreCompileInputs.cache
+C:\Users\JH\source\repos\CamelCase\CamelCase\obj\Debug\CamelCase.csproj.CopyComplete
+C:\Users\JH\source\repos\CamelCase\CamelCase\obj\Debug\CamelCaser.exe
+C:\Users\JH\source\repos\CamelCase\CamelCase\obj\Debug\CamelCaser.pdb
