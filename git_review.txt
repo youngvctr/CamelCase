@@ -3,7 +3,9 @@
 Programming Note
 
 ##Git 저장소와 로컬 저장소를 복제##
-$$ git clone https://github.com/youngvctr/CamelCase
+$ git clone https://github.com/youngvctr/CamelCase
+$ git config --global user.name "youngvctr"
+$ git config --global user.email "jhk91@yonsei.ac.kr"
 
 - 깃 주소를 복사해와서 local에 복제할 때 사용
 - Working Directory: 작업할 파일이 있는 diorectory
