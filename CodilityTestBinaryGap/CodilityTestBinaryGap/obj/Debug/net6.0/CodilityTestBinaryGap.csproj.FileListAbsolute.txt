@@ -1,0 +1,15 @@
+C:\Users\JH\source\repos\CodilityTestBinaryGap\CodilityTestBinaryGap\obj\Debug\net6.0\CodilityTestBinaryGap.csproj.AssemblyReference.cache
+C:\Users\JH\source\repos\CodilityTestBinaryGap\CodilityTestBinaryGap\obj\Debug\net6.0\CodilityTestBinaryGap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JH\source\repos\CodilityTestBinaryGap\CodilityTestBinaryGap\obj\Debug\net6.0\CodilityTestBinaryGap.AssemblyInfoInputs.cache
+C:\Users\JH\source\repos\CodilityTestBinaryGap\CodilityTestBinaryGap\obj\Debug\net6.0\CodilityTestBinaryGap.AssemblyInfo.cs
+C:\Users\JH\source\repos\CodilityTestBinaryGap\CodilityTestBinaryGap\obj\Debug\net6.0\CodilityTestBinaryGap.csproj.CoreCompileInputs.cache
+C:\Users\JH\source\repos\CodilityTestBinaryGap\CodilityTestBinaryGap\bin\Debug\net6.0\CodilityTestBinaryGap.exe
+C:\Users\JH\source\repos\CodilityTestBinaryGap\CodilityTestBinaryGap\bin\Debug\net6.0\CodilityTestBinaryGap.deps.json
+C:\Users\JH\source\repos\CodilityTestBinaryGap\CodilityTestBinaryGap\bin\Debug\net6.0\CodilityTestBinaryGap.runtimeconfig.json
+C:\Users\JH\source\repos\CodilityTestBinaryGap\CodilityTestBinaryGap\bin\Debug\net6.0\CodilityTestBinaryGap.dll
+C:\Users\JH\source\repos\CodilityTestBinaryGap\CodilityTestBinaryGap\bin\Debug\net6.0\ref\CodilityTestBinaryGap.dll
+C:\Users\JH\source\repos\CodilityTestBinaryGap\CodilityTestBinaryGap\bin\Debug\net6.0\CodilityTestBinaryGap.pdb
+C:\Users\JH\source\repos\CodilityTestBinaryGap\CodilityTestBinaryGap\obj\Debug\net6.0\CodilityTestBinaryGap.dll
+C:\Users\JH\source\repos\CodilityTestBinaryGap\CodilityTestBinaryGap\obj\Debug\net6.0\ref\CodilityTestBinaryGap.dll
+C:\Users\JH\source\repos\CodilityTestBinaryGap\CodilityTestBinaryGap\obj\Debug\net6.0\CodilityTestBinaryGap.pdb
+C:\Users\JH\source\repos\CodilityTestBinaryGap\CodilityTestBinaryGap\obj\Debug\net6.0\CodilityTestBinaryGap.genruntimeconfig.cache

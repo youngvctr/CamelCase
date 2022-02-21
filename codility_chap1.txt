@@ -1,0 +1,40 @@
+using System;
+using System.Collections.Generic;
+// you can also use other imports, for example:
+// using System.Collections.Generic;
+
+// you can write to stdout for debugging purposes, e.g.
+// Console.WriteLine("this is a debug message");
+
+class Solution {
+    public int solution(int N) {
+        string strBinary = "";
+        strBinary = Convert.ToString(N, 2);
+        
+        List<int> listPos = new List<int>();
+        List<int> listSub = new List<int>();
+
+        int nMax = 0;
+        for (int i = 0; i < strBinary.Length; i++){
+            if (strBinary[i].ToString() == "1"){
+                listPos.Add(i);
+            }
+        }
+        
+        for (int i = 0; i < listPos.Count-1; i++){
+            if (listPos[i+1] - listPos[i] != 1)
+                listSub.Add(listPos[i+1] - listPos[i]);
+        }
+
+        foreach (int pos in listSub)
+        {
+            if (nMax < pos)
+                nMax = pos - 1;
+        }
+
+        if (nMax > 0)
+            return nMax;
+        else
+            return 0;
+    }
+}
