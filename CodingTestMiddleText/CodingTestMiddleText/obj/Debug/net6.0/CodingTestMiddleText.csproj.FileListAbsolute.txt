@@ -1,0 +1,15 @@
+C:\Users\JH\source\repos\CodingTestMiddleText\CodingTestMiddleText\obj\Debug\net6.0\CodingTestMiddleText.csproj.AssemblyReference.cache
+C:\Users\JH\source\repos\CodingTestMiddleText\CodingTestMiddleText\obj\Debug\net6.0\CodingTestMiddleText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JH\source\repos\CodingTestMiddleText\CodingTestMiddleText\obj\Debug\net6.0\CodingTestMiddleText.AssemblyInfoInputs.cache
+C:\Users\JH\source\repos\CodingTestMiddleText\CodingTestMiddleText\obj\Debug\net6.0\CodingTestMiddleText.AssemblyInfo.cs
+C:\Users\JH\source\repos\CodingTestMiddleText\CodingTestMiddleText\obj\Debug\net6.0\CodingTestMiddleText.csproj.CoreCompileInputs.cache
+C:\Users\JH\source\repos\CodingTestMiddleText\CodingTestMiddleText\bin\Debug\net6.0\CodingTestMiddleText.exe
+C:\Users\JH\source\repos\CodingTestMiddleText\CodingTestMiddleText\bin\Debug\net6.0\CodingTestMiddleText.deps.json
+C:\Users\JH\source\repos\CodingTestMiddleText\CodingTestMiddleText\bin\Debug\net6.0\CodingTestMiddleText.runtimeconfig.json
+C:\Users\JH\source\repos\CodingTestMiddleText\CodingTestMiddleText\bin\Debug\net6.0\CodingTestMiddleText.dll
+C:\Users\JH\source\repos\CodingTestMiddleText\CodingTestMiddleText\bin\Debug\net6.0\ref\CodingTestMiddleText.dll
+C:\Users\JH\source\repos\CodingTestMiddleText\CodingTestMiddleText\bin\Debug\net6.0\CodingTestMiddleText.pdb
+C:\Users\JH\source\repos\CodingTestMiddleText\CodingTestMiddleText\obj\Debug\net6.0\CodingTestMiddleText.dll
+C:\Users\JH\source\repos\CodingTestMiddleText\CodingTestMiddleText\obj\Debug\net6.0\ref\CodingTestMiddleText.dll
+C:\Users\JH\source\repos\CodingTestMiddleText\CodingTestMiddleText\obj\Debug\net6.0\CodingTestMiddleText.pdb
+C:\Users\JH\source\repos\CodingTestMiddleText\CodingTestMiddleText\obj\Debug\net6.0\CodingTestMiddleText.genruntimeconfig.cache
